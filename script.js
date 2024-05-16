@@ -13,7 +13,7 @@ class Note {
 
 function getNotes() {
     let notes;
-    if (localStorage.getItem("noteApp.notes") === null) {
+    if (localStorage.getItem("noteApp.notes") ===  null) {
       notes = [];
     } else {
       notes = JSON.parse(localStorage.getItem("noteApp.notes"));
