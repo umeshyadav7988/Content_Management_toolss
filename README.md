@@ -1,5 +1,4 @@
 # Content Management Tools
-
 This project is a simple content management system built using HTML, CSS, and JavaScript. It allows users to create, update, and manage content by entering a title, uploading a file, entering content, and submitting the form. Users can also update existing content as needed.
 
 ## Features
